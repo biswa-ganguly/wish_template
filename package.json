@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "run-script-os": "^1.1.6"
+  }
+}
